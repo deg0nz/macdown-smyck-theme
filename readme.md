@@ -7,7 +7,7 @@ A color theme for the Mou Markdown editor based on the [SMYCK color theme](http:
 
 Clone the theme-files to a local directory:
 
-	git clone [URL here]
+	git clone https://github.com/deg0nz/mou-smyck-theme.git
 	
 Copy the SMYCK.txt to `~/Library/Application Support/Mou/Themes/`:
 
