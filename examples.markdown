@@ -1,6 +1,6 @@
-#H1
-##H2
-###H3
+# H1
+## H2
+### H3
 
 *italic*
 
@@ -51,4 +51,4 @@ for(int i = 0; i < 3; i++){
 
 >Blockquote   
 
-<!-- Comment //-->
+<!-- HTML Comment //-->
